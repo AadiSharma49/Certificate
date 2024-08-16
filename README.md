@@ -39,7 +39,7 @@
 </p>
 
 <h4>View My Certificate:</h4>
-<p>You can view my official certificate of completion <a href="file:///C:/Users/DESKTOP/Downloads/AWS%20Course%20Completion%20Certificate.pdf">here</a>.</p>
+<p>You can view my official certificate of completion <a href="AWS Course Completion Certificate.pdf">here</a>.</p>
 
 
 
