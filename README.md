@@ -2,7 +2,8 @@
 
 <h3>Certificate of Completion: <strong>Introduction to Building with AWS Databases</strong></h3>
 
-<p><strong>Date:</strong> August 16, 2024</p>
+<p><strong>Date:</strong> August 16, 2024</p> 
+
 
 <p>
     I am pleased to announce that I have successfully completed the 
