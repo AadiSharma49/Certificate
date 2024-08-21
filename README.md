@@ -39,8 +39,6 @@
     This certification adds to my growing expertise in cloud computing and positions me to effectively contribute to projects that require sophisticated database solutions in AWS environments.
 </p>
 
-<h4>View My Certificate:</h4>
-<p>You can view my official certificate of completion <a href="https://aadisharma49.github.io/Certificate/">here</a>.</p>
 
 
 
