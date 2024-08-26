@@ -1,10 +1,6 @@
 <h2>AWS Training and Certification</h2>
 
 <h3>Certificate of Completion: <strong>Introduction to Building with AWS Databases</strong></h3>
-
-<p><strong>Date:</strong> August 16, 2024</p> 
-
-
 <p>
     I am pleased to announce that I have successfully completed the 
     <strong>Introduction to Building with AWS Databases</strong> course, a key component of AWS's comprehensive training and certification programs. 
