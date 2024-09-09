@@ -29,7 +29,7 @@
 
 <h4>Significance of This Certification:</h4>
 <p>
-    Earning this certification underscores my proficiency in utilizing AWS database services to build, manage, and optimize databases in the cloud. It demonstrates my ability to design resilient and scalable database solutions that can support mission-critical applications while ensuring data security and compliance.This certification adds to my growing expertise in cloud computing and positions me to effectively contribute to projects that require sophisticated database solutions in AWS environments.
+    Earning this certification underscores my proficiency in utilizing AWS database services to build, manage, and optimize databases in the cloud. 
 </p>
 
 
